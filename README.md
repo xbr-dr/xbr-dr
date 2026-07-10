@@ -10,15 +10,12 @@ AI • Machine Learning • Python • Full Stack Development
 <a href="https://linkedin.com/in/xbrdr">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<p align="center">
-  <a href="https://instagram.com/zubairbinihamid" target="_blank">
+ <a href="https://instagram.com/zubairbinihamid" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
   <a href="https://x.com/xbr_dr" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-</p>
 <a href="mailto:zubairdar378378@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
