@@ -20,13 +20,7 @@ AI • Machine Learning • Python • Full Stack Development
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,flask,tensorflow,pytorch,mysql,git,github,vscode,linux"/>
 
 </p>
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xbr-dr&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbr-dr&layout=compact&theme=tokyonight"/>
-
-</p>
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=xbr-dr&theme=tokyonight"/>
