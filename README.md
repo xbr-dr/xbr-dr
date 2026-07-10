@@ -15,3 +15,37 @@ AI • Machine Learning • Python • Full Stack Development
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,flask,django,tensorflow,pytorch,mysql,mongodb,git,github,docker,vscode,linux"/>
+
+</p>
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+
+</p>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&row=1&column=7"/>
+
+</p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=blue&style=flat"/>
+
+</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=YOURUSERNAME.YOURUSERNAME"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
