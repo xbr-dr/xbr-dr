@@ -31,11 +31,7 @@ AI • Machine Learning • Python • Full Stack Development
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xbr-dr&theme=tokyo-night"/>
 
 </p>
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=xbr-dr&theme=tokyonight&row=1&column=7"/>
-
-</p>
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=xbr-dr&label=Profile+Views&color=blue&style=flat"/>
